@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "validate-vat": {
+      "version": "0.3.1"
+    }
+  }
+}
