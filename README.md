@@ -1,4 +1,4 @@
-validate-vat
-============
+Wrapper for validate-vat
+=======
 
-Wraper for validate-vat
+Uses validate-vat from https://github.com/viruschidai/validate-vat

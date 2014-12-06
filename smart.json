@@ -1,0 +1,8 @@
+{
+  "name": "validate-vat",
+  "description": "A validate-vat package wrapping around the exising npm module",
+  "homepage": "http://bitomule.com",
+  "author": "David Collado",
+  "version": "0.3.1",
+  "git": "https://github.com/bitomule/validate-vat"
+}
